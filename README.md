@@ -23,7 +23,7 @@ Multi-view stacked graph convolutional network for Drug Repositioning
 - metric.py: Metrics calculation
 - BIST.py: Code of Bi-level subgraph transformer module
 - MVS.py: Code of Multi-view stacked module
-- model.py: Model of DRMAHGC
+- model.py: Model of MVSGDR
 - main.py: Train the model
 
 # Datasets
